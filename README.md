@@ -1,5 +1,7 @@
 # Saving-Private-Jager
 
+A game made in pygame as a final project for CMPUT 275. Collaboration between me and Alan Guo.
+
 Help Scott save his son from the zombies (so he can beat him later).
 
 Files:
